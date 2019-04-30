@@ -1,0 +1,10 @@
+1)CPD(Certified Designer Project)
+2)CRD(Report Developer)
+3)CDMD(Dashboard & Mobile Designer)
+Title:MCD(Designer)
+4)CES (Engine Specialist)
+Title:MCE(MSTR Engineer)
+
+5)CPA(Platform Administrator)
+Title:MCEP(MSTR Eng Principle)Version 9.4.1
+
